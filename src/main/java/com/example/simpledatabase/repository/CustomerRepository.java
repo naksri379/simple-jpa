@@ -1,5 +1,6 @@
-package com.example.simpledatabase;
+package com.example.simpledatabase.repository;
 
+import com.example.simpledatabase.domain.Customer;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

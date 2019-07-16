@@ -1,5 +1,6 @@
-package com.example.simpledatabase;
+package com.example.simpledatabase.domain;
 
+import com.example.simpledatabase.TimezonedLocalDateTimeConverter;
 import lombok.Data;
 
 import javax.persistence.*;
